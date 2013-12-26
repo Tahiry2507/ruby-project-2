@@ -1,1 +1,4 @@
+10- What are the primary differences between an Array and a Hash. When/why would you use one over the other?
+
+
 Similar to an array, a hash is a data structure and can store any kind of data. However, unlike arrays, we can store and get our data using a key that referrs to a specific value
